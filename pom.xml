@@ -11,12 +11,6 @@
  <build>
   <plugins>
    <plugin>
-    <groupId>org.phpmaven</groupId>
-    <artifactId>maven-php-plugin</artifactId>
-    <extensions>true</extensions>
-   </plugin>
-
-   <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-site-plugin</artifactId>
     <version>3.0</version>
